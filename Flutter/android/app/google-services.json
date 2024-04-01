@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232345592915",
+    "project_id": "registrationui-349af",
+    "storage_bucket": "registrationui-349af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232345592915:android:fc4285f00912ad101412a6",
+        "android_client_info": {
+          "package_name": "com.example.registration_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232345592915-e8j29cfdqk58k4dv0ecids23sp163sk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYw260ZN-zkzbwj70mHP_tFWIAg_KdnaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232345592915-e8j29cfdqk58k4dv0ecids23sp163sk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
